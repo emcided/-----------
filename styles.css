@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Comfortaa', cursive;
+}
+img {
+    position: relative;
+}
+
+.content-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.center-content {
+    width: 500px;
+}
+
+
+
+h1 {
+    
+    display: flex;
+    justify-content: center;
+}
+
+.inag {
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+
+}
+
+.man {
+    width: 50%;
+}
+
+.pod {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+}
+.classes {
+    display: flex;
+    justify-content: space-around;
+}
+p {
+    font-size: 20px;
+}
+.emci {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    text-align: center;
+}
+.img {
+    display: flex;
+    flex-direction: row;
+}
+.img figure {
+    display: flex;
+    flex-direction: column;
+}
+.text {
+    line-height: 150%;
+}
+.star1 {
+    z-index: -1;
+    position: absolute;
+    left: 700px;
+    top: 1120px;
+}
+.star2 {
+    z-index: -1;
+    position: absolute;
+    left: 1100px;
+    top: 1050px;
+}
+.telegram {
+    bottom: 50px;
+    right: 75px;
+}
+
